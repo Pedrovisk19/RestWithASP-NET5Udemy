@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TpqwfUSSIMj18Lq822NpFJ1gP7q1wsf0V8OooGCWZ8yc9QACa5WmWuXRG9ztSytff+epuZIiowbpzGqIQuvYXw==",
+  "dgSpecHash": "u9FyTC6v7lf7OixHFQizu2UaD6n32xRUhzViszJu/xAccW7G6CrguVx1EzGf+LETgxll6+0FKPLp24Frrvh2yw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\peper\\OneDrive\\Área de Trabalho\\backend_study\\RestWithASP-NET5Udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+  "projectFilePath": "C:\\Users\\peper\\OneDrive\\Área de Trabalho\\backend_study\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\peper\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\peper\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

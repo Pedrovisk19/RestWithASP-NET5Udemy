@@ -23,8 +23,6 @@ public class CalculatorController : ControllerBase
     { 
         return Ok(_personService.FindAll());
     }
-        return BadRequest("Invalid Input");
-    }
 
     [HttpGet("{id}")]
     public IActionResult Get(long id)
@@ -52,7 +50,6 @@ public class CalculatorController : ControllerBase
     public IActionResult Delete(long id)
     {
         _personService.Delete(id);
-        if (person == null) return NotFound();
         return NoContent();
     }
 }
