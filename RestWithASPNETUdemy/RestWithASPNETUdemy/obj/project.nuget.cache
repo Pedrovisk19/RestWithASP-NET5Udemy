@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CL1a0BW6pC2qtN3jcPKwv9DoSI/qZ+Ob1H4al1Kl/XqzDPk9T+Elk7oOeKRHv3vYCMpcIc1Ubyx9XbHPuMy86w==",
+  "dgSpecHash": "a1n3/LcA75Am/e7vQCyWjQ3JEPYT+KVQAX3DcgGSXht2UxjAoa20vuirj8UI6hWnrqnSfn634nl47C1YpLh8MA==",
   "success": true,
   "projectFilePath": "C:\\Users\\peper\\OneDrive\\Área de Trabalho\\backend_study\\RestWithASP-NET5Udemy\\RestWithASP-NET5Udemy\\RestWithASPNETUdemy\\RestWithASP-NET5Udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\peper\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\peper\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\peper\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\peper\\.nuget\\packages\\microsoft.net.sdk.razor\\3.1.32\\microsoft.net.sdk.razor.3.1.32.nupkg.sha512",
     "C:\\Users\\peper\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\peper\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",
     "C:\\Users\\peper\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\7.0.0\\pomelo.entityframeworkcore.mysql.7.0.0.nupkg.sha512",
