@@ -1,11 +1,17 @@
+using Microsoft.EntityFrameworkCore;
+using RestWithASPNETUdemy.Model.Context;
 using RestWithASPNETUdemy.Services;
 using RestWithASPNETUdemy.Services.Implementations;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddControllers();
+var connection = builder.Configuration["MySQLConnection:MySQLConnectionString"];
+builder.Services.AddDbContext<MySQLContext>((serviceProvider, options) =>
+{
+    options.UseMySql(connection, new MySqlServerVersion(new Version(8, 0, 26)));
+});
 builder.Services.AddScoped<IPersonService, PersonServiceImplementation>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
